@@ -118,12 +118,12 @@ html{
         fullMarkdown: `杨凯
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+ 两年多前端工作经验哦！！！
 
 技能
 ----
 
-* 前端开发
+* 前端开发:vue+js+jquery+react...
 
 
 工作经历
@@ -137,10 +137,8 @@ html{
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/yangkaiyangyi/resume)，打造你自己的简历！
+* [GitHub](https://github.com/yangkaiyangyi)
+> 如果你喜欢这个效果，Fork [*](https://github.com/yangkaiyangyi/resume)，打造你自己的简历！
 
 `
       }
