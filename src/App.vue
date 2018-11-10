@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是杨凯
-* 2018年底了，好多公司都在招聘，作为明年技术储备，你是不是也在准备简历呀。
+* 大家好，我是YangKai
+* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
 
@@ -118,31 +118,29 @@ html{
         fullMarkdown: `杨凯
 ----
 
-h5前端工程师，现在在求职哟,期待新东家。
+资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
 
 技能
 ----
 
-* 框架:vue,react
-* 原生js，jquery，
-* scss css 
-* 微信小程序开发
+* 前端开发
+
 
 工作经历
 ----
 
-1. 待更新
-2. 待更新
-3. .....
-4. ....
+1. 
+2.
+3. 
+4. 
 
 链接
 ----
 
-* [GitHub](https://github.com/yangkaiyangyi)
-* [我的文章](待更新)
+* [GitHub](https://github.com/frankfang)
+* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
 
-> 如果你喜欢这个效果，Fork [我的简历](https://yangkaiyangyi.github.io/resume/dist)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/yangkaiyangyi/resume)，打造你自己的简历！
 
 `
       }
